@@ -1,3 +1,0 @@
-Router1 Router2 100000  50
-Router3 Router1 100000  50
-Router2 Router3 10000   100
